@@ -1,0 +1,11 @@
+#include<iostream.h>
+#include<conio.h>
+
+void main()
+{
+clrscr();
+
+printf("Soon Complete Code Will Be Uploaded");
+
+getch();
+}
